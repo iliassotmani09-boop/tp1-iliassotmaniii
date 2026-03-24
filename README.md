@@ -11,3 +11,16 @@ Ce TP a pour but de maîtriser Git, les branches et les Pull Requests.
 
 ## Auteur
 Iliass Otmani
+
+## Captures d'écran
+
+### 1. Arbre des commits après fusion
+
+### 2. Pull Request fusionnée
+## Captures d'écran
+
+### 1. Arbre des commits après fusion
+![git log graph](screenshots/git-log-graph.png)
+
+### 2. Pull Request fusionnée
+![pull request merged](screenshots/pr-merged.png)
